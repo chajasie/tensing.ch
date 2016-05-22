@@ -122,7 +122,16 @@ h2{
 .container {
 	width: 100%;
 }
+/* MDB Anpassungen */
+#ortsgruppen-navi .dropdown-menu{
+	width: 800px;
+}
+#ortsgruppen-navi .dropdown-menu li{
+	clear:none;
+	width: 33%;
+}
 
+/* *************************************************** /
 
 /* Custom page CSS
 -------------------------------------------------- */
