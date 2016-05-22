@@ -1,0 +1,43 @@
+/* Header */
+.header{
+	width:100%;
+	height: 350px;
+	position:relative;
+	overflow:hidden;
+}
+#main-header{
+	background-repeat: no-repeat;
+	background-image: url("../images/header.png");
+	background-position-y: -173px;
+}
+#transparent-head{
+	position:absolute;
+	right: 45px;
+}
+#main-navigation{
+	margin-top: 294px;
+}
+.navbar{
+	margin-bottom: 3px;
+}
+
+/* Body */
+body{
+	position:relative;
+}
+#body{
+	min-height: 1500px;
+}
+
+/* Footer */
+.footer{
+	width:100%;
+	height: 255px;
+	position:absolute;
+	bottom: 0px;
+	overflow:hidden;
+	
+	background-repeat: no-repeat;
+	background-image: url("../images/footer.png");
+	
+}
